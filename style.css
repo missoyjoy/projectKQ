@@ -266,6 +266,32 @@ nav a:hover{color:var(--purple)}
   width: 100px;
   border-radius: 8px;
 }
+#core-values {
+  text-align: center;
+  padding: 50px 20px;
+  background: #0f0000;
+}
+
+.values-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.value {
+  width: 250px;
+  padding: 20px;
+  background: rgb(10, 10, 10);
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
+
+.value i {
+  font-size: 40px;
+  color:#4b1a8a;
+  margin-bottom: 15px;
+}
 
 
 
