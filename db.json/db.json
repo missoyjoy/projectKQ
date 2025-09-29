@@ -1,0 +1,82 @@
+{
+  "women": [
+    {
+      "id": 1,
+      "name": "Elegant Evening Gown",
+      "category": "Women",
+      "price": 5000,
+      "stock": 10,
+      "sizes": ["M", "L", "XL"],
+      "image": "images/women/gown1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Casual Chic Outfit",
+      "category": "Women",
+      "price": 3500,
+      "stock": 15,
+      "sizes": ["S", "M", "L"],
+      "image": "images/women/outfit1.jpg"
+    }
+  ],
+  "men": [
+    {
+      "id": 1,
+      "name": "Classic Suit",
+      "category": "Men",
+      "price": 6000,
+      "stock": 8,
+      "sizes": ["M", "L", "XL"],
+      "image": "images/men/suit1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Casual Denim Jacket",
+      "category": "Men",
+      "price": 2800,
+      "stock": 12,
+      "sizes": ["M", "L"],
+      "image": "images/men/jacket1.jpg"
+    }
+  ],
+  "girls": [
+    {
+      "id": 1,
+      "name": "Floral Summer Dress",
+      "category": "Girls",
+      "price": 2500,
+      "stock": 12,
+      "sizes": ["S", "M", "L"],
+      "image": "images/girls/dress1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cute Skater Skirt",
+      "category": "Girls",
+      "price": 1500,
+      "stock": 18,
+      "sizes": ["S", "M", "L"],
+      "image": "images/girls/skirt1.jpg"
+    }
+  ],
+  "boys": [
+    {
+      "id": 1,
+      "name": "Casual T-Shirt",
+      "category": "Boys",
+      "price": 1200,
+      "stock": 20,
+      "sizes": ["S", "M", "L"],
+      "image": "images/boys/tshirt1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Denim Jeans",
+      "category": "Boys",
+      "price": 2000,
+      "stock": 15,
+      "sizes": ["M", "L"],
+      "image": "images/boys/jeans1.jpg"
+    }
+  ]
+}
