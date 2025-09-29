@@ -292,25 +292,6 @@ nav a:hover{color:var(--purple)}
   color:#4b1a8a;
   margin-bottom: 15px;
 }
-.hero-content {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 20px;
-}
-
-/* Mobile view */
-@media (max-width: 768px) {
-  .hero-content {
-    flex-direction: column;
-    text-align: center;
-  }
-
-  .hero-image img {
-    width: 100%;  /* full width on phone */
-    height: auto;
-  }
-}
 
 
 
